@@ -1,4 +1,4 @@
-# gpu-based-ml
+# gpu-enabled-ml
 The repository includes the notebooks used for testing the behavior of ML models when GPUs are available.
 
 For now, it contains:
